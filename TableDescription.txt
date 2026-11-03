@@ -5,3 +5,7 @@ type: string
 id: docDate
 name: Дата документа
 type: date
+
+id: name
+name: ФИО
+type: string
