@@ -1,0 +1,7 @@
+id: docNumber
+name: Номер документа
+type: string
+
+id: docDate
+name: Дата документа
+type: date
